@@ -33,4 +33,4 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./docs/.vuepress/dist
           CNAME: vuepress.datav.ai
-        uses: veaba/vuepress-actions@v0.81
+        uses: veaba/vuepress-actions@v0.82
